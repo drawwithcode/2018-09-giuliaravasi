@@ -1,4 +1,4 @@
-var myLoc;
+// var myLoc;
 var myMap;
 var canvas;
 var mappa = new Mappa('MapboxGL', 'pk.eyJ1IjoiZ2l1bGlhcmF2YXNpIiwiYSI6ImNqb3F4bHg3ZjA5djYzdXB0cWJlM3YwOWsifQ.XdvASWdDlrCulPlGUTx6fA');
