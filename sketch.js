@@ -38,8 +38,8 @@ function preload(){
   imageTourist = loadImage('./assets/tourist.svg');
   imageSwimmer = loadImage('./assets/swimmer.svg');
   imageHiker = loadImage('./assets/hiker.svg');
-  imageChef = loadImage('/assets/chef.svg');
-  imageMusician = loadImage('/assets/musician.svg')
+  imageChef = loadImage('./assets/chef.svg');
+  imageMusician = loadImage('./assets/musician.svg')
 }
 
 function setup() {
